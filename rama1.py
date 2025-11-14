@@ -1,0 +1,1 @@
+print("ramas 1 - palos 0")
